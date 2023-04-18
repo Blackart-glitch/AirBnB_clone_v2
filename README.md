@@ -142,4 +142,4 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 <br>
 
 #### contributor <br>
-Ajiboye Daniel [Email](boyelanrewaju@gmail.com) | [github](https://github.com/Blackart-glitch) | [linkedin](https://www.linkedin.com/in/daniel-boy%C3%A9-58366a1b4)
+Ajiboye Daniel [Email](mailto:boyelanrewaju@gmail.com) | [github](https://github.com/Blackart-glitch) | [linkedin](https://www.linkedin.com/in/daniel-boy%C3%A9-58366a1b4)
